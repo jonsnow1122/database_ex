@@ -1,0 +1,3 @@
+# Description of the experimental environment
+This experiment is based on the locally running VirtualBox virtual machine, on which an openEuler-based openGauss database is built. In order to facilitate the modification and operation of the code, putty is used as the input interface to connect to the database. In order to facilitate data management and database related operations, a datagrip connected to the database is used to edit and run the program.
+The experiment also involved Java JDBC and Python-related data generation and import functions, so the Java environment in VSCODE (JDK8) and the AnaConda3-based Python 3 environment in PyCharm were also configured on local Windows 11.
